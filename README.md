@@ -17,4 +17,4 @@ Meetup #7 sobre Clean Architecture y ConstraintLayou
   
 ### Info:
 
-- [Architecting Android](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+- [Architecting Android…The clean way? Fernando Cejas ](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
