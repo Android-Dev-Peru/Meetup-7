@@ -11,9 +11,11 @@ Meetup #7 sobre Clean Architecture y ConstraintLayou
 
 ### Taller :
 
-- Clean Architecture
+- Christopher Cárdenas Pacheco
+  Clean Architecture 
 
-- ConstraintLayout
+- Pablo Johnson 
+  ConstraintLayout
   
 ### Info:
 
