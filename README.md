@@ -1,7 +1,8 @@
-Meetup-7
+# Meetup-7
 
-Meetup #7 sobre Clean Architecture y ConstraintLayou
-Requisitos :
+Meetup #7 sobre Clean Architecture y ConstraintLayout
+
+##Requisitos :
 
     Descargar los proyectos de Android-clean-architecture de Github
     
@@ -13,13 +14,13 @@ Requisitos :
     OS Linux, OSX, Windows
     Java 8
 
-Taller :
+## Taller :
 
     Christopher Cárdenas Pacheco - Clean Architecture
 
     Pablo Johnson - ConstraintLayout
 
-Info:
+## Info:
 
-    Architecting Android…The clean way? Fernando Cejas
+    Architecting Android…The clean way? Fernando Cejas [http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 
