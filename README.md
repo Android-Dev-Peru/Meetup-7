@@ -1,22 +1,25 @@
-# Meetup-7
-Meetup #7 sobre Dagger2 & Clean architecture & Android Wear & Android M y N
+Meetup-7
 
-### Charlas :
+Meetup #7 sobre Clean Architecture y ConstraintLayou
+Requisitos :
 
-- Pedro Carrillo
+    Descargar los proyectos de Android-clean-architecture de Github
+    
+        Android Clean Architecture [https://github.com/Android-Dev-Peru/android-clean-architecture](https://github.com/Android-Dev-Peru/android-clean-architecture)
+        
+        ConstraintLayout [https://github.com/pablo-johnson/layout-pancake](https://github.com/pablo-johnson/layout-pancake)
 
- Let’s get started with dagger 2 [https://github.com/PedroCarrillo/DaggerProgrammer](https://github.com/PedroCarrillo/DaggerProgrammer)
+    Android Studio 2.1.2 o +
+    OS Linux, OSX, Windows
+    Java 8
 
-- Eduardo Medina 
+Taller :
 
- Clean architecture [https://github.com/emedinaa/android-clean-architecture](https://github.com/emedinaa/android-clean-architecture )
- 
- 
-- Pablo Johnson 
+    Christopher Cárdenas Pacheco - Clean Architecture
 
- Android Wear [https://github.com/pablo-johnson/android-AlwaysOn](https://github.com/pablo-johnson/android-AlwaysOn)
- 
-  
-- Carlos Piñan 
+    Pablo Johnson - ConstraintLayout
 
- Android M y N  [https://github.com/cpinan/AndroidPE](https://github.com/cpinan/AndroidPE)
+Info:
+
+    Architecting Android…The clean way? Fernando Cejas
+
