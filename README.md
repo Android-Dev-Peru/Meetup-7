@@ -15,11 +15,11 @@ Meetup #7 sobre Clean Architecture y ConstraintLayout
 
 ## Taller :
 
-    - Christopher Cárdenas Pacheco - Clean Architecture
+- Christopher Cárdenas Pacheco - Clean Architecture
     
-    - Pablo Johnson - ConstraintLayout
+- Pablo Johnson - ConstraintLayout
 
 ## Info:
 
-    Architecting Android…The clean way? Fernando Cejas [http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+Architecting Android…The clean way? Fernando Cejas [http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 
